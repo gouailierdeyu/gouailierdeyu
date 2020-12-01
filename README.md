@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on IOT club SCU...
 - 🌱 I’m currently learning NILM...
-[![Gouailierdeyu's github stats](https://github-readme-stats.vercel.app/api?username=gouailierdeyu)]
+
+
+[![Gouailierdeyu's github stats](https://github-readme-stats.vercel.app/api?username=gouailierdeyu)]()
