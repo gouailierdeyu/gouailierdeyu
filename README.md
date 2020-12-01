@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NILM...
 
 
-[![Gouailierdeyu's github stats](https://github-readme-stats.vercel.app/api?username=gouailierdeyu)](http:\\blog.canerme.cn)
+[![Gouailierdeyu's github stats](https://github-readme-stats.vercel.app/api?username=gouailierdeyu)](http://blog.canerme.cn)
